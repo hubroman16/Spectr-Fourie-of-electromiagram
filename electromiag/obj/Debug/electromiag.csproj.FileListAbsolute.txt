@@ -1,0 +1,15 @@
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\electromiag.exe.config
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\electromiag.exe
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\electromiag.pdb
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\MathNet.Numerics.dll
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\System.ValueTuple.dll
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\MathNet.Numerics.xml
+D:\уроки\туровский\electromiag\electromiag\bin\Debug\System.ValueTuple.xml
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.csprojAssemblyReference.cache
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.Form1.resources
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.Properties.Resources.resources
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.csproj.GenerateResource.cache
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.csproj.CoreCompileInputs.cache
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.csproj.CopyComplete
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.exe
+D:\уроки\туровский\electromiag\electromiag\obj\Debug\electromiag.pdb
